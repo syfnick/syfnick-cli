@@ -1,6 +1,6 @@
 {
   "name": "@syfnick-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "syfnick-cli core",
   "author": "nick_sun <syfnick@163.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@syfnick-cli/utils": "^1.0.0"
+    "@syfnick-cli/utils": "^1.0.1"
   }
 }
